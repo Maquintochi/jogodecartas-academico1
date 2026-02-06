@@ -81,8 +81,4 @@ Projeto desenvolvido com fins acadêmicos no curso de **Engenharia de Software**
 
 ---
 
-**Beatriz Rodrigues Lima**  
-Estudante de Engenharia de Software  
-🔗 GitHub: https://github.com/Bea-Lima07
 
-# jogodecartas-academico1
